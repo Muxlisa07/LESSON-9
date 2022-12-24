@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.line{
+    margin: 30px auto;
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(223, 224, 224);
+    display: flex;
+}
+
+
+.circle{
+    width: 25px;
+    height: 25px;
+    margin-top: 25px;
+    margin-left: 10px;
+    border: 1px none;
+   border-radius: 50%;
+   background-color: blue;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+}
+
+
+h2{
+color: rgb(108, 33, 178);
+margin-left: 80px;
+margin-top: 35px;
+letter-spacing: 1px;
+font-size: 25px;
+font-weight: normal;
+}
